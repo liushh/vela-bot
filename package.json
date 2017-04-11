@@ -1,0 +1,15 @@
+{
+  "name": "vela",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "file:../botpress"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liusha",
+  "license": "AGPL-3.0"
+}
